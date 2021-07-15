@@ -6,7 +6,8 @@ Author          : Mehul Y Khandhadiya
 Roll No         : B-55
 Language        : Python 3
 '''
-
+print("Let's go")
+print("--------------------------")
 numm = 1
 while(numm==1):
     s=list(input("Enter the text : "))
